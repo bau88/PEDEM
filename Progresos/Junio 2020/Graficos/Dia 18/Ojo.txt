@@ -1,0 +1,7 @@
+Hoy hice varias entradas aprovechando que tengo mi Nivel 5 en Demo. 
+
+Por si es que no entran unas, otra sí. Me di cuenta que siempre cuando introduzco Market sí me llena
+y cuando le pongo limit nunca me llena o me rechaza, usualmente. 
+
+La idea es ir y abrir todo al pedo y así por lo menos ir aprendiendo lo que no hay que hacer
+o cómo hace los cálculos o en qué caso gané al azar. 
