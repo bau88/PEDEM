@@ -1,0 +1,31 @@
+SPY
+
+Desde la mañana se vio que tuvo un ligero descenso hasta el nivel de 30 donde se mantuvo, y en 
+las últimas horas hasta el mediodía tendía a ir en largo. 
+
+Se quedó en 321.56 aprox su precio. 
+Short put para strikes por debajo del cluster de 120 y 60. 
+
+317
+
+QQQ
+
+Desde la mañana estuvo lateral entre los niveles de Day, 120, 60 y 30. Si bien, incluso en su momento
+parecía que iba a romper el nivel soporte de 60, finalmente se llegó a ver que empezaba a 
+subir hacia arriba de nuevo. 
+
+El precio se quedó en 259.14
+
+Short put para strikes por debajo de nivel de 30. 
+BAJO 256
+
+TSLA
+Es el más arriesgado para entrar con un short. Desde la mañana estuvo con un lateral de 60, 120
+y 30. Cualquiera de ambos lados puede ir, por arriba o por abajo en cualquier momento. 
+El precio que osciló siempre fue 1.506.56 USD. 
+
+MSFT
+
+Estuvo bajando durante la mañana. puede ser que elija el Short Call Acá.Superior al Day. 
+
+Acordarme de ver si tiene que enviarme algo Tradestation un paquete o algo. 
