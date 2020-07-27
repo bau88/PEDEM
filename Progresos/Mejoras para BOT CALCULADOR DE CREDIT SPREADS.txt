@@ -1,0 +1,36 @@
+
+En un pedem, voy a retornar una lista de todos los verticales ordenados por ROIs de mayor a 
+menor. La probabilidad ponderada ya no hará falta ordenar. 
+
+Para long, hacer algo parecido. Que tenga más alto nomás el Open Interest y delta mayor a 0.4.
+
+No sé si eso llegará a hacer falta. Pero practicar en la semana y ver si puedo agregar más mejora. Pero por lo pronto, el de BPCS ya está bastante robusto. 
+
+Tengo que ver esos casos en que aparecían los signos mayor o menor en los excel nomás ya. 
+Ver si hay algún caso que aparece. 
+
+Hacer algo parecido a los debits spreads. Pero para eso, debo ver cómo calcula los debits spreads su max profit y max loss. 
+Voy a estudiar qué relación tiene ahí el tema de los short. O sea, si tengo que esperar 
+al vencimiento. Si es así, voy a tratar de hacer una mejora al algoritmo. O hacer otro. 
+Ahora leí un poco y este tema de los debits spreads no es igual. Porque acá actuamos como 
+compradores. 
+
+
+
+
+
+Lo que sí, me va a ayudar bastante el tema de tener un "compañero bot" y aparte al "drone"
+
+Me siento feliz, entusiasmado, porque así parece únicamente que entiendo todo mejor. Y voy sacando mis conclusiones. 
+
+
+El sábado me vino de onda una idea. 
+
+Ahora que ya está el Bot experto, voy a hacer lo siguiente. 
+
+Cada día a las 12 del mediodía voy a sacar un excel de cada activo, y voy a ir viendo el progreso a la misma hora todos los días, 
+hasta el viernes. 
+======================================================================================================================================
+Seguramente después voy a tener un informe haciendo minería y saber qué datos van a ir progresando en el tiempo, por ejemplo, 
+tener ciertos strikes más recomendados y su progreso en la semana. El martes o miércoles ya voy a tener un panorama más claro probabilísticamente
+que va a ser el que va a llegar a viernes por la tarde. 

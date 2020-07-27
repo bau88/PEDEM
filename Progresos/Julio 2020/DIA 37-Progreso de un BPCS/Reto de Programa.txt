@@ -1,0 +1,34 @@
+Hacer un programa que sea capaz de leer lo que tiene un excel. 
+Puedo hacer para spreads, pero también me puede servir para longs. 
+La idea es obtener una lista de las alternativas de las cadenas con su riesgo y beneficio. 
+Y que yo pueda elegir su riesgo beneficio.  
+
+Hacer lo mismo para los Call, los Put, pero al revés. De ahora en más sólo me referiré a los Call. 
+
+Filtrar todas las cadenas de opciones con el precio bid mayor a 0.04. 
+Filtrar todas las cadenas de opciones con el spread mayor a (el monto de breakeven), 
+posiblemente 11 USD por contrato. 
+Filtrar todas las cadenas de opciones con su Probabilidad OTM mayor a 80%. 
+Agregarle tambien el tema de Delta. 
+Imprimir cada strike con su beneficio riesgo correspondiente. Tanto si va a ser una CALL o una 
+put. 
+
+Si bien, va no va a ser exacto, al menos me va a traer el más aproximado. 
+
+Varias etapas va a tener el programa. 
+
+Primero, seguro voy a hacer la etapa de Combinación. 
+
+
+
+Recibir la matriz de calls: VectorCPROB_OTM, VectorCDelta, VectorCBid, VectorCAsk, VectorCStrike. 
+
+Que imprima su riesgo máximo, riesgo mínimo, ROI de todos los que cumplen la condición. 
+
+Al final creo que es un problema multi-objetivo. 
+
+Por ejemplo, puedo correr este programa los jueves por la tarde y los viernes por la mañana. 
+Y al mediodía del viernes por si quiero comprobar. 
+
+Voy a entrar a buscar lista enlazada en Java, en uno de mis archivos de años anteriores. 
+
