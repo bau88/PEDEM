@@ -1,0 +1,552 @@
+===================================================================================================================================
+Nombre de Programa  : BOT EXPERTO CALCULADOR DE CREDIT SPREADS
+Analisis de archivo : MSFT-2020-08-03-1.xlsx
+ROI                 : >= 10.0 %
+Hora		    : 15:04:31
+===================================================================================================================================
+				OPORTUNIDADES en BEAR CALL - BCCS (Z)								
+===================================================================================================================================
+
+    Strikes: 222.5 / 225.0         MaxProfit: 24.0          MaxLoss: 226.0        ROI: 10.62%	    Probabilidad Ponderada: 83.97 %
+Total: 1 oportunidades CALL
+===================================================================================================================================
+				OPORTUNIDADES en BULL PUT - BPCS (S)								
+===================================================================================================================================
+
+    Strikes: 205.0 / 202.5         MaxProfit: 36.0          MaxLoss: 214.0        ROI: 16.82%	    Probabilidad Ponderada: 80.9 %
+    Strikes: 205.0 / 200.0         MaxProfit: 54.0          MaxLoss: 446.0        ROI: 12.11%	    Probabilidad Ponderada: 80.9 %
+Total: 2 oportunidades PUT
+ -------------------------------------------                 -------------------------------------------------------
+
+
+===================================================================================================================================
+Nombre de Programa  : BOT EXPERTO CALCULADOR DE CREDIT SPREADS
+Analisis de archivo : SPY-2020-08-04-1.xlsx
+ROI                 : >= 10.0 %
+Hora		    : 15:07:36
+===================================================================================================================================
+				OPORTUNIDADES en BEAR CALL - BCCS (Z)								
+===================================================================================================================================
+
+    Strikes: 395.0 / 400.0         MaxProfit: 116.0          MaxLoss: 384.0        ROI: 30.21%	    Probabilidad Ponderada: 80.57 %
+    Strikes: 395.0 / 405.0         MaxProfit: 222.0          MaxLoss: 778.0        ROI: 28.53%	    Probabilidad Ponderada: 80.57 %
+    Strikes: 395.0 / 410.0         MaxProfit: 316.0          MaxLoss: 1184.0        ROI: 26.69%	    Probabilidad Ponderada: 80.57 %
+    Strikes: 400.0 / 410.0         MaxProfit: 200.0          MaxLoss: 800.0        ROI: 25.0%	    Probabilidad Ponderada: 82.16 %
+    Strikes: 395.0 / 415.0         MaxProfit: 399.0          MaxLoss: 1601.0        ROI: 24.92%	    Probabilidad Ponderada: 80.57 %
+    Strikes: 400.0 / 415.0         MaxProfit: 283.0          MaxLoss: 1217.0        ROI: 23.25%	    Probabilidad Ponderada: 82.16 %
+    Strikes: 395.0 / 420.0         MaxProfit: 471.0          MaxLoss: 2029.0        ROI: 23.21%	    Probabilidad Ponderada: 80.57 %
+    Strikes: 334.0 / 335.0         MaxProfit: 18.0          MaxLoss: 82.0        ROI: 21.95%	    Probabilidad Ponderada: 82.02 %
+    Strikes: 395.0 / 425.0         MaxProfit: 538.0          MaxLoss: 2462.0        ROI: 21.85%	    Probabilidad Ponderada: 80.57 %
+    Strikes: 400.0 / 420.0         MaxProfit: 355.0          MaxLoss: 1645.0        ROI: 21.58%	    Probabilidad Ponderada: 82.16 %
+    Strikes: 405.0 / 415.0         MaxProfit: 177.0          MaxLoss: 823.0        ROI: 21.51%	    Probabilidad Ponderada: 83.61 %
+    Strikes: 395.0 / 430.0         MaxProfit: 595.0          MaxLoss: 2905.0        ROI: 20.48%	    Probabilidad Ponderada: 80.57 %
+    Strikes: 400.0 / 425.0         MaxProfit: 422.0          MaxLoss: 2078.0        ROI: 20.31%	    Probabilidad Ponderada: 82.16 %
+    Strikes: 405.0 / 420.0         MaxProfit: 249.0          MaxLoss: 1251.0        ROI: 19.9%	    Probabilidad Ponderada: 83.61 %
+    Strikes: 395.0 / 435.0         MaxProfit: 642.0          MaxLoss: 3358.0        ROI: 19.12%	    Probabilidad Ponderada: 80.57 %
+    Strikes: 400.0 / 430.0         MaxProfit: 479.0          MaxLoss: 2521.0        ROI: 19.0%	    Probabilidad Ponderada: 82.16 %
+    Strikes: 405.0 / 425.0         MaxProfit: 316.0          MaxLoss: 1684.0        ROI: 18.76%	    Probabilidad Ponderada: 83.61 %
+    Strikes: 410.0 / 420.0         MaxProfit: 155.0          MaxLoss: 845.0        ROI: 18.34%	    Probabilidad Ponderada: 84.99 %
+    Strikes: 395.0 / 440.0         MaxProfit: 691.0          MaxLoss: 3809.0        ROI: 18.14%	    Probabilidad Ponderada: 80.57 %
+    Strikes: 400.0 / 435.0         MaxProfit: 526.0          MaxLoss: 2974.0        ROI: 17.69%	    Probabilidad Ponderada: 82.16 %
+    Strikes: 334.0 / 336.0         MaxProfit: 30.0          MaxLoss: 170.0        ROI: 17.65%	    Probabilidad Ponderada: 82.02 %
+    Strikes: 405.0 / 430.0         MaxProfit: 373.0          MaxLoss: 2127.0        ROI: 17.54%	    Probabilidad Ponderada: 83.61 %
+    Strikes: 410.0 / 425.0         MaxProfit: 222.0          MaxLoss: 1278.0        ROI: 17.37%	    Probabilidad Ponderada: 84.99 %
+    Strikes: 395.0 / 445.0         MaxProfit: 730.0          MaxLoss: 4270.0        ROI: 17.1%	    Probabilidad Ponderada: 80.57 %
+    Strikes: 400.0 / 440.0         MaxProfit: 575.0          MaxLoss: 3425.0        ROI: 16.79%	    Probabilidad Ponderada: 82.16 %
+    Strikes: 405.0 / 435.0         MaxProfit: 420.0          MaxLoss: 2580.0        ROI: 16.28%	    Probabilidad Ponderada: 83.61 %
+    Strikes: 410.0 / 430.0         MaxProfit: 279.0          MaxLoss: 1721.0        ROI: 16.21%	    Probabilidad Ponderada: 84.99 %
+    Strikes: 395.0 / 450.0         MaxProfit: 766.0          MaxLoss: 4734.0        ROI: 16.18%	    Probabilidad Ponderada: 80.57 %
+    Strikes: 415.0 / 425.0         MaxProfit: 139.0          MaxLoss: 861.0        ROI: 16.14%	    Probabilidad Ponderada: 86.27 %
+    Strikes: 400.0 / 445.0         MaxProfit: 614.0          MaxLoss: 3886.0        ROI: 15.8%	    Probabilidad Ponderada: 82.16 %
+    Strikes: 405.0 / 440.0         MaxProfit: 469.0          MaxLoss: 3031.0        ROI: 15.47%	    Probabilidad Ponderada: 83.61 %
+    Strikes: 395.0 / 455.0         MaxProfit: 799.0          MaxLoss: 5201.0        ROI: 15.36%	    Probabilidad Ponderada: 80.57 %
+    Strikes: 415.0 / 430.0         MaxProfit: 196.0          MaxLoss: 1304.0        ROI: 15.03%	    Probabilidad Ponderada: 86.27 %
+    Strikes: 410.0 / 435.0         MaxProfit: 326.0          MaxLoss: 2174.0        ROI: 15.0%	    Probabilidad Ponderada: 84.99 %
+    Strikes: 400.0 / 450.0         MaxProfit: 650.0          MaxLoss: 4350.0        ROI: 14.94%	    Probabilidad Ponderada: 82.16 %
+    Strikes: 395.0 / 460.0         MaxProfit: 828.0          MaxLoss: 5672.0        ROI: 14.6%	    Probabilidad Ponderada: 80.57 %
+    Strikes: 405.0 / 445.0         MaxProfit: 508.0          MaxLoss: 3492.0        ROI: 14.55%	    Probabilidad Ponderada: 83.61 %
+    Strikes: 410.0 / 440.0         MaxProfit: 375.0          MaxLoss: 2625.0        ROI: 14.29%	    Probabilidad Ponderada: 84.99 %
+    Strikes: 400.0 / 455.0         MaxProfit: 683.0          MaxLoss: 4817.0        ROI: 14.18%	    Probabilidad Ponderada: 82.16 %
+    Strikes: 420.0 / 430.0         MaxProfit: 124.0          MaxLoss: 876.0        ROI: 14.16%	    Probabilidad Ponderada: 87.44 %
+    Strikes: 334.0 / 337.0         MaxProfit: 37.0          MaxLoss: 263.0        ROI: 14.07%	    Probabilidad Ponderada: 82.02 %
+    Strikes: 395.0 / 465.0         MaxProfit: 853.0          MaxLoss: 6147.0        ROI: 13.88%	    Probabilidad Ponderada: 80.57 %
+    Strikes: 415.0 / 435.0         MaxProfit: 243.0          MaxLoss: 1757.0        ROI: 13.83%	    Probabilidad Ponderada: 86.27 %
+    Strikes: 405.0 / 450.0         MaxProfit: 544.0          MaxLoss: 3956.0        ROI: 13.75%	    Probabilidad Ponderada: 83.61 %
+    Strikes: 335.0 / 336.0         MaxProfit: 12.0          MaxLoss: 88.0        ROI: 13.64%	    Probabilidad Ponderada: 87.08 %
+    Strikes: 400.0 / 460.0         MaxProfit: 712.0          MaxLoss: 5288.0        ROI: 13.46%	    Probabilidad Ponderada: 82.16 %
+    Strikes: 410.0 / 445.0         MaxProfit: 414.0          MaxLoss: 3086.0        ROI: 13.42%	    Probabilidad Ponderada: 84.99 %
+    Strikes: 395.0 / 470.0         MaxProfit: 876.0          MaxLoss: 6624.0        ROI: 13.22%	    Probabilidad Ponderada: 80.57 %
+    Strikes: 415.0 / 440.0         MaxProfit: 292.0          MaxLoss: 2208.0        ROI: 13.22%	    Probabilidad Ponderada: 86.27 %
+    Strikes: 405.0 / 455.0         MaxProfit: 577.0          MaxLoss: 4423.0        ROI: 13.05%	    Probabilidad Ponderada: 83.61 %
+    Strikes: 420.0 / 435.0         MaxProfit: 171.0          MaxLoss: 1329.0        ROI: 12.87%	    Probabilidad Ponderada: 87.44 %
+    Strikes: 400.0 / 465.0         MaxProfit: 737.0          MaxLoss: 5763.0        ROI: 12.79%	    Probabilidad Ponderada: 82.16 %
+    Strikes: 410.0 / 450.0         MaxProfit: 450.0          MaxLoss: 3550.0        ROI: 12.68%	    Probabilidad Ponderada: 84.99 %
+    Strikes: 395.0 / 475.0         MaxProfit: 888.0          MaxLoss: 7112.0        ROI: 12.49%	    Probabilidad Ponderada: 80.57 %
+    Strikes: 415.0 / 445.0         MaxProfit: 331.0          MaxLoss: 2669.0        ROI: 12.4%	    Probabilidad Ponderada: 86.27 %
+    Strikes: 405.0 / 460.0         MaxProfit: 606.0          MaxLoss: 4894.0        ROI: 12.38%	    Probabilidad Ponderada: 83.61 %
+    Strikes: 420.0 / 440.0         MaxProfit: 220.0          MaxLoss: 1780.0        ROI: 12.36%	    Probabilidad Ponderada: 87.44 %
+    Strikes: 400.0 / 470.0         MaxProfit: 760.0          MaxLoss: 6240.0        ROI: 12.18%	    Probabilidad Ponderada: 82.16 %
+    Strikes: 410.0 / 455.0         MaxProfit: 483.0          MaxLoss: 4017.0        ROI: 12.02%	    Probabilidad Ponderada: 84.99 %
+    Strikes: 405.0 / 465.0         MaxProfit: 631.0          MaxLoss: 5369.0        ROI: 11.75%	    Probabilidad Ponderada: 83.61 %
+    Strikes: 334.0 / 338.0         MaxProfit: 42.0          MaxLoss: 358.0        ROI: 11.73%	    Probabilidad Ponderada: 82.02 %
+    Strikes: 395.0 / 480.0         MaxProfit: 892.0          MaxLoss: 7608.0        ROI: 11.72%	    Probabilidad Ponderada: 80.57 %
+    Strikes: 415.0 / 450.0         MaxProfit: 367.0          MaxLoss: 3133.0        ROI: 11.71%	    Probabilidad Ponderada: 86.27 %
+    Strikes: 425.0 / 435.0         MaxProfit: 104.0          MaxLoss: 896.0        ROI: 11.61%	    Probabilidad Ponderada: 88.53 %
+    Strikes: 420.0 / 445.0         MaxProfit: 259.0          MaxLoss: 2241.0        ROI: 11.56%	    Probabilidad Ponderada: 87.44 %
+    Strikes: 400.0 / 475.0         MaxProfit: 772.0          MaxLoss: 6728.0        ROI: 11.47%	    Probabilidad Ponderada: 82.16 %
+    Strikes: 410.0 / 460.0         MaxProfit: 512.0          MaxLoss: 4488.0        ROI: 11.41%	    Probabilidad Ponderada: 84.99 %
+    Strikes: 425.0 / 440.0         MaxProfit: 153.0          MaxLoss: 1347.0        ROI: 11.36%	    Probabilidad Ponderada: 88.53 %
+    Strikes: 395.0 / 485.0         MaxProfit: 909.0          MaxLoss: 8091.0        ROI: 11.23%	    Probabilidad Ponderada: 80.57 %
+    Strikes: 405.0 / 470.0         MaxProfit: 654.0          MaxLoss: 5846.0        ROI: 11.19%	    Probabilidad Ponderada: 83.61 %
+    Strikes: 415.0 / 455.0         MaxProfit: 400.0          MaxLoss: 3600.0        ROI: 11.11%	    Probabilidad Ponderada: 86.27 %
+    Strikes: 420.0 / 450.0         MaxProfit: 295.0          MaxLoss: 2705.0        ROI: 10.91%	    Probabilidad Ponderada: 87.44 %
+    Strikes: 410.0 / 465.0         MaxProfit: 537.0          MaxLoss: 4963.0        ROI: 10.82%	    Probabilidad Ponderada: 84.99 %
+    Strikes: 395.0 / 490.0         MaxProfit: 925.0          MaxLoss: 8575.0        ROI: 10.79%	    Probabilidad Ponderada: 80.57 %
+    Strikes: 400.0 / 480.0         MaxProfit: 776.0          MaxLoss: 7224.0        ROI: 10.74%	    Probabilidad Ponderada: 82.16 %
+    Strikes: 425.0 / 445.0         MaxProfit: 192.0          MaxLoss: 1808.0        ROI: 10.62%	    Probabilidad Ponderada: 88.53 %
+    Strikes: 430.0 / 440.0         MaxProfit: 96.0          MaxLoss: 904.0        ROI: 10.62%	    Probabilidad Ponderada: 89.52 %
+    Strikes: 415.0 / 460.0         MaxProfit: 429.0          MaxLoss: 4071.0        ROI: 10.54%	    Probabilidad Ponderada: 86.27 %
+    Strikes: 405.0 / 475.0         MaxProfit: 666.0          MaxLoss: 6334.0        ROI: 10.51%	    Probabilidad Ponderada: 83.61 %
+    Strikes: 335.0 / 337.0         MaxProfit: 19.0          MaxLoss: 181.0        ROI: 10.5%	    Probabilidad Ponderada: 87.08 %
+    Strikes: 420.0 / 455.0         MaxProfit: 328.0          MaxLoss: 3172.0        ROI: 10.34%	    Probabilidad Ponderada: 87.44 %
+    Strikes: 400.0 / 485.0         MaxProfit: 793.0          MaxLoss: 7707.0        ROI: 10.29%	    Probabilidad Ponderada: 82.16 %
+    Strikes: 410.0 / 470.0         MaxProfit: 560.0          MaxLoss: 5440.0        ROI: 10.29%	    Probabilidad Ponderada: 84.99 %
+    Strikes: 334.0 / 339.0         MaxProfit: 46.0          MaxLoss: 454.0        ROI: 10.13%	    Probabilidad Ponderada: 82.02 %
+    Strikes: 425.0 / 450.0         MaxProfit: 228.0          MaxLoss: 2272.0        ROI: 10.04%	    Probabilidad Ponderada: 88.53 %
+Total: 85 oportunidades CALL
+===================================================================================================================================
+				OPORTUNIDADES en BULL PUT - BPCS (S)								
+===================================================================================================================================
+
+    Strikes: 180.0 / 170.0         MaxProfit: 768.0          MaxLoss: 232.0        ROI: 331.03%	    Probabilidad Ponderada: 81.03 %
+    Strikes: 175.0 / 165.0         MaxProfit: 701.0          MaxLoss: 299.0        ROI: 234.45%	    Probabilidad Ponderada: 81.94 %
+    Strikes: 170.0 / 160.0         MaxProfit: 654.0          MaxLoss: 346.0        ROI: 189.02%	    Probabilidad Ponderada: 82.79 %
+    Strikes: 165.0 / 155.0         MaxProfit: 586.0          MaxLoss: 414.0        ROI: 141.55%	    Probabilidad Ponderada: 83.82 %
+    Strikes: 180.0 / 165.0         MaxProfit: 768.0          MaxLoss: 732.0        ROI: 104.92%	    Probabilidad Ponderada: 81.03 %
+    Strikes: 175.0 / 160.0         MaxProfit: 701.0          MaxLoss: 799.0        ROI: 87.73%	    Probabilidad Ponderada: 81.94 %
+    Strikes: 170.0 / 155.0         MaxProfit: 654.0          MaxLoss: 846.0        ROI: 77.3%	    Probabilidad Ponderada: 82.79 %
+    Strikes: 180.0 / 160.0         MaxProfit: 768.0          MaxLoss: 1232.0        ROI: 62.34%	    Probabilidad Ponderada: 81.03 %
+    Strikes: 175.0 / 155.0         MaxProfit: 701.0          MaxLoss: 1299.0        ROI: 53.96%	    Probabilidad Ponderada: 81.94 %
+    Strikes: 180.0 / 155.0         MaxProfit: 768.0          MaxLoss: 1732.0        ROI: 44.34%	    Probabilidad Ponderada: 81.03 %
+    Strikes: 160.0 / 155.0         MaxProfit: 73.0          MaxLoss: 427.0        ROI: 17.1%	    Probabilidad Ponderada: 84.45 %
+    Strikes: 170.0 / 165.0         MaxProfit: 68.0          MaxLoss: 432.0        ROI: 15.74%	    Probabilidad Ponderada: 82.79 %
+    Strikes: 180.0 / 175.0         MaxProfit: 67.0          MaxLoss: 433.0        ROI: 15.47%	    Probabilidad Ponderada: 81.03 %
+    Strikes: 323.0 / 322.0         MaxProfit: 13.0          MaxLoss: 87.0        ROI: 14.94%	    Probabilidad Ponderada: 81.11 %
+    Strikes: 150.0 / 145.0         MaxProfit: 65.0          MaxLoss: 435.0        ROI: 14.94%	    Probabilidad Ponderada: 86.07 %
+    Strikes: 180.0 / 165.0         MaxProfit: 182.0          MaxLoss: 1318.0        ROI: 13.81%	    Probabilidad Ponderada: 81.03 %
+    Strikes: 323.0 / 321.0         MaxProfit: 23.0          MaxLoss: 177.0        ROI: 12.99%	    Probabilidad Ponderada: 81.11 %
+    Strikes: 175.0 / 165.0         MaxProfit: 115.0          MaxLoss: 885.0        ROI: 12.99%	    Probabilidad Ponderada: 81.94 %
+    Strikes: 180.0 / 170.0         MaxProfit: 114.0          MaxLoss: 886.0        ROI: 12.87%	    Probabilidad Ponderada: 81.03 %
+    Strikes: 180.0 / 155.0         MaxProfit: 281.0          MaxLoss: 2219.0        ROI: 12.66%	    Probabilidad Ponderada: 81.03 %
+    Strikes: 170.0 / 155.0         MaxProfit: 167.0          MaxLoss: 1333.0        ROI: 12.53%	    Probabilidad Ponderada: 82.79 %
+    Strikes: 175.0 / 155.0         MaxProfit: 214.0          MaxLoss: 1786.0        ROI: 11.98%	    Probabilidad Ponderada: 81.94 %
+    Strikes: 180.0 / 160.0         MaxProfit: 208.0          MaxLoss: 1792.0        ROI: 11.61%	    Probabilidad Ponderada: 81.03 %
+    Strikes: 180.0 / 145.0         MaxProfit: 363.0          MaxLoss: 3137.0        ROI: 11.57%	    Probabilidad Ponderada: 81.03 %
+    Strikes: 323.0 / 320.0         MaxProfit: 31.0          MaxLoss: 269.0        ROI: 11.52%	    Probabilidad Ponderada: 81.11 %
+    Strikes: 160.0 / 145.0         MaxProfit: 155.0          MaxLoss: 1345.0        ROI: 11.52%	    Probabilidad Ponderada: 84.45 %
+    Strikes: 322.0 / 321.0         MaxProfit: 10.0          MaxLoss: 90.0        ROI: 11.11%	    Probabilidad Ponderada: 84.16 %
+    Strikes: 170.0 / 145.0         MaxProfit: 249.0          MaxLoss: 2251.0        ROI: 11.06%	    Probabilidad Ponderada: 82.79 %
+    Strikes: 180.0 / 150.0         MaxProfit: 298.0          MaxLoss: 2702.0        ROI: 11.03%	    Probabilidad Ponderada: 81.03 %
+    Strikes: 165.0 / 155.0         MaxProfit: 99.0          MaxLoss: 901.0        ROI: 10.99%	    Probabilidad Ponderada: 83.82 %
+    Strikes: 175.0 / 145.0         MaxProfit: 296.0          MaxLoss: 2704.0        ROI: 10.95%	    Probabilidad Ponderada: 81.94 %
+    Strikes: 180.0 / 140.0         MaxProfit: 393.0          MaxLoss: 3607.0        ROI: 10.9%	    Probabilidad Ponderada: 81.03 %
+    Strikes: 180.0 / 135.0         MaxProfit: 431.0          MaxLoss: 4069.0        ROI: 10.59%	    Probabilidad Ponderada: 81.03 %
+    Strikes: 323.0 / 319.0         MaxProfit: 38.0          MaxLoss: 362.0        ROI: 10.5%	    Probabilidad Ponderada: 81.11 %
+    Strikes: 150.0 / 140.0         MaxProfit: 95.0          MaxLoss: 905.0        ROI: 10.5%	    Probabilidad Ponderada: 86.07 %
+    Strikes: 170.0 / 160.0         MaxProfit: 94.0          MaxLoss: 906.0        ROI: 10.38%	    Probabilidad Ponderada: 82.79 %
+    Strikes: 175.0 / 160.0         MaxProfit: 141.0          MaxLoss: 1359.0        ROI: 10.38%	    Probabilidad Ponderada: 81.94 %
+    Strikes: 175.0 / 140.0         MaxProfit: 326.0          MaxLoss: 3174.0        ROI: 10.27%	    Probabilidad Ponderada: 81.94 %
+    Strikes: 170.0 / 140.0         MaxProfit: 279.0          MaxLoss: 2721.0        ROI: 10.25%	    Probabilidad Ponderada: 82.79 %
+    Strikes: 180.0 / 130.0         MaxProfit: 464.0          MaxLoss: 4536.0        ROI: 10.23%	    Probabilidad Ponderada: 81.03 %
+    Strikes: 160.0 / 140.0         MaxProfit: 185.0          MaxLoss: 1815.0        ROI: 10.19%	    Probabilidad Ponderada: 84.45 %
+    Strikes: 175.0 / 150.0         MaxProfit: 231.0          MaxLoss: 2269.0        ROI: 10.18%	    Probabilidad Ponderada: 81.94 %
+    Strikes: 170.0 / 150.0         MaxProfit: 184.0          MaxLoss: 1816.0        ROI: 10.13%	    Probabilidad Ponderada: 82.79 %
+    Strikes: 175.0 / 135.0         MaxProfit: 364.0          MaxLoss: 3636.0        ROI: 10.01%	    Probabilidad Ponderada: 81.94 %
+Total: 44 oportunidades PUT
+ -------------------------------------------                 -------------------------------------------------------
+Informe Mineria de Datos
+Strikes: 395.0/400.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 395.0/405.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 395.0/410.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 400.0/410.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 395.0/415.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 395.0/420.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 400.0/415.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 395.0/425.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 405.0/415.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 400.0/420.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 395.0/430.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 405.0/420.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 400.0/425.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 395.0/435.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 405.0/425.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 400.0/430.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 334.0/335.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 410.0/420.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 395.0/440.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 400.0/435.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 405.0/430.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 395.0/445.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 410.0/425.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 400.0/440.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 405.0/435.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 395.0/450.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 415.0/425.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 410.0/430.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 334.0/336.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 400.0/445.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 405.0/440.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 395.0/455.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 415.0/430.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 400.0/450.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 410.0/435.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 405.0/445.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 395.0/460.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 410.0/440.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 400.0/455.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 415.0/435.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 395.0/465.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 405.0/450.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 420.0/430.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 400.0/460.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 410.0/445.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 395.0/470.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 415.0/440.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 334.0/337.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 335.0/336.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 405.0/455.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 420.0/435.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 400.0/465.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 395.0/475.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 410.0/450.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 415.0/445.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 405.0/460.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 420.0/440.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 400.0/470.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 395.0/480.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 410.0/455.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 425.0/435.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 405.0/465.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 415.0/450.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 400.0/475.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 420.0/445.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 395.0/485.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 425.0/440.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 405.0/470.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 410.0/460.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 415.0/455.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 334.0/338.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 400.0/480.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 420.0/450.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 335.0/337.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 430.0/440.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 405.0/475.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 410.0/465.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 425.0/445.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 415.0/460.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 400.0/485.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 410.0/470.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 420.0/455.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 425.0/450.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 395.0/490.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 334.0/339.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 180.0/170.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 170.0/160.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 175.0/165.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 165.0/155.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 180.0/165.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 170.0/155.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 175.0/160.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 180.0/160.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 175.0/155.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 180.0/155.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 150.0/145.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 180.0/170.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 180.0/165.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 180.0/160.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 180.0/155.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 170.0/160.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 180.0/145.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 170.0/155.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 180.0/150.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 165.0/155.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 180.0/140.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 170.0/145.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 180.0/135.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 180.0/130.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 150.0/140.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 160.0/145.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 170.0/140.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 160.0/155.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 170.0/165.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 180.0/175.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 323.0/322.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 323.0/321.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 323.0/320.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 322.0/321.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 175.0/145.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 323.0/319.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 175.0/140.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 160.0/140.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 175.0/150.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 170.0/150.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 175.0/135.0      Codigo Credits Spreads: 2        Dias activo: 1
+
+
+===================================================================================================================================
+Nombre de Programa  : BOT EXPERTO CALCULADOR DE CREDIT SPREADS
+Analisis de archivo : SPY-2020-08-05-1.xlsx
+ROI                 : >= 10.0 %
+Hora		    : 15:09:46
+===================================================================================================================================
+				OPORTUNIDADES en BEAR CALL - BCCS (Z)								
+===================================================================================================================================
+
+    Strikes: 400.0 / 405.0         MaxProfit: 113.0          MaxLoss: 387.0        ROI: 29.2%	    Probabilidad Ponderada: 81.22 %
+    Strikes: 400.0 / 410.0         MaxProfit: 216.0          MaxLoss: 784.0        ROI: 27.55%	    Probabilidad Ponderada: 81.22 %
+    Strikes: 400.0 / 415.0         MaxProfit: 305.0          MaxLoss: 1195.0        ROI: 25.52%	    Probabilidad Ponderada: 81.22 %
+    Strikes: 400.0 / 420.0         MaxProfit: 386.0          MaxLoss: 1614.0        ROI: 23.92%	    Probabilidad Ponderada: 81.22 %
+    Strikes: 405.0 / 415.0         MaxProfit: 192.0          MaxLoss: 808.0        ROI: 23.76%	    Probabilidad Ponderada: 82.74 %
+    Strikes: 400.0 / 425.0         MaxProfit: 456.0          MaxLoss: 2044.0        ROI: 22.31%	    Probabilidad Ponderada: 81.22 %
+    Strikes: 405.0 / 420.0         MaxProfit: 273.0          MaxLoss: 1227.0        ROI: 22.25%	    Probabilidad Ponderada: 82.74 %
+    Strikes: 405.0 / 425.0         MaxProfit: 343.0          MaxLoss: 1657.0        ROI: 20.7%	    Probabilidad Ponderada: 82.74 %
+    Strikes: 400.0 / 430.0         MaxProfit: 513.0          MaxLoss: 2487.0        ROI: 20.63%	    Probabilidad Ponderada: 81.22 %
+    Strikes: 410.0 / 420.0         MaxProfit: 170.0          MaxLoss: 830.0        ROI: 20.48%	    Probabilidad Ponderada: 84.2 %
+    Strikes: 400.0 / 435.0         MaxProfit: 566.0          MaxLoss: 2934.0        ROI: 19.29%	    Probabilidad Ponderada: 81.22 %
+    Strikes: 405.0 / 430.0         MaxProfit: 400.0          MaxLoss: 2100.0        ROI: 19.05%	    Probabilidad Ponderada: 82.74 %
+    Strikes: 410.0 / 425.0         MaxProfit: 240.0          MaxLoss: 1260.0        ROI: 19.05%	    Probabilidad Ponderada: 84.2 %
+    Strikes: 400.0 / 440.0         MaxProfit: 616.0          MaxLoss: 3384.0        ROI: 18.2%	    Probabilidad Ponderada: 81.22 %
+    Strikes: 405.0 / 435.0         MaxProfit: 453.0          MaxLoss: 2547.0        ROI: 17.79%	    Probabilidad Ponderada: 82.74 %
+    Strikes: 415.0 / 425.0         MaxProfit: 151.0          MaxLoss: 849.0        ROI: 17.79%	    Probabilidad Ponderada: 85.53 %
+    Strikes: 410.0 / 430.0         MaxProfit: 297.0          MaxLoss: 1703.0        ROI: 17.44%	    Probabilidad Ponderada: 84.2 %
+    Strikes: 400.0 / 445.0         MaxProfit: 658.0          MaxLoss: 3842.0        ROI: 17.13%	    Probabilidad Ponderada: 81.22 %
+    Strikes: 405.0 / 440.0         MaxProfit: 503.0          MaxLoss: 2997.0        ROI: 16.78%	    Probabilidad Ponderada: 82.74 %
+    Strikes: 410.0 / 435.0         MaxProfit: 350.0          MaxLoss: 2150.0        ROI: 16.28%	    Probabilidad Ponderada: 84.2 %
+    Strikes: 400.0 / 450.0         MaxProfit: 695.0          MaxLoss: 4305.0        ROI: 16.14%	    Probabilidad Ponderada: 81.22 %
+    Strikes: 415.0 / 430.0         MaxProfit: 208.0          MaxLoss: 1292.0        ROI: 16.1%	    Probabilidad Ponderada: 85.53 %
+    Strikes: 405.0 / 445.0         MaxProfit: 545.0          MaxLoss: 3455.0        ROI: 15.77%	    Probabilidad Ponderada: 82.74 %
+    Strikes: 410.0 / 440.0         MaxProfit: 400.0          MaxLoss: 2600.0        ROI: 15.38%	    Probabilidad Ponderada: 84.2 %
+    Strikes: 400.0 / 455.0         MaxProfit: 729.0          MaxLoss: 4771.0        ROI: 15.28%	    Probabilidad Ponderada: 81.22 %
+    Strikes: 415.0 / 435.0         MaxProfit: 261.0          MaxLoss: 1739.0        ROI: 15.01%	    Probabilidad Ponderada: 85.53 %
+    Strikes: 336.0 / 337.0         MaxProfit: 13.0          MaxLoss: 87.0        ROI: 14.94%	    Probabilidad Ponderada: 85.0 %
+    Strikes: 405.0 / 450.0         MaxProfit: 582.0          MaxLoss: 3918.0        ROI: 14.85%	    Probabilidad Ponderada: 82.74 %
+    Strikes: 420.0 / 430.0         MaxProfit: 127.0          MaxLoss: 873.0        ROI: 14.55%	    Probabilidad Ponderada: 86.79 %
+    Strikes: 410.0 / 445.0         MaxProfit: 442.0          MaxLoss: 3058.0        ROI: 14.45%	    Probabilidad Ponderada: 84.2 %
+    Strikes: 400.0 / 460.0         MaxProfit: 757.0          MaxLoss: 5243.0        ROI: 14.44%	    Probabilidad Ponderada: 81.22 %
+    Strikes: 415.0 / 440.0         MaxProfit: 311.0          MaxLoss: 2189.0        ROI: 14.21%	    Probabilidad Ponderada: 85.53 %
+    Strikes: 405.0 / 455.0         MaxProfit: 616.0          MaxLoss: 4384.0        ROI: 14.05%	    Probabilidad Ponderada: 82.74 %
+    Strikes: 400.0 / 465.0         MaxProfit: 784.0          MaxLoss: 5716.0        ROI: 13.72%	    Probabilidad Ponderada: 81.22 %
+    Strikes: 420.0 / 435.0         MaxProfit: 180.0          MaxLoss: 1320.0        ROI: 13.64%	    Probabilidad Ponderada: 86.79 %
+    Strikes: 410.0 / 450.0         MaxProfit: 479.0          MaxLoss: 3521.0        ROI: 13.6%	    Probabilidad Ponderada: 84.2 %
+    Strikes: 415.0 / 445.0         MaxProfit: 353.0          MaxLoss: 2647.0        ROI: 13.34%	    Probabilidad Ponderada: 85.53 %
+    Strikes: 405.0 / 460.0         MaxProfit: 644.0          MaxLoss: 4856.0        ROI: 13.26%	    Probabilidad Ponderada: 82.74 %
+    Strikes: 400.0 / 470.0         MaxProfit: 809.0          MaxLoss: 6191.0        ROI: 13.07%	    Probabilidad Ponderada: 81.22 %
+    Strikes: 420.0 / 440.0         MaxProfit: 230.0          MaxLoss: 1770.0        ROI: 12.99%	    Probabilidad Ponderada: 86.79 %
+    Strikes: 410.0 / 455.0         MaxProfit: 513.0          MaxLoss: 3987.0        ROI: 12.87%	    Probabilidad Ponderada: 84.2 %
+    Strikes: 405.0 / 465.0         MaxProfit: 671.0          MaxLoss: 5329.0        ROI: 12.59%	    Probabilidad Ponderada: 82.74 %
+    Strikes: 415.0 / 450.0         MaxProfit: 390.0          MaxLoss: 3110.0        ROI: 12.54%	    Probabilidad Ponderada: 85.53 %
+    Strikes: 400.0 / 475.0         MaxProfit: 833.0          MaxLoss: 6667.0        ROI: 12.49%	    Probabilidad Ponderada: 81.22 %
+    Strikes: 425.0 / 435.0         MaxProfit: 110.0          MaxLoss: 890.0        ROI: 12.36%	    Probabilidad Ponderada: 87.93 %
+    Strikes: 420.0 / 445.0         MaxProfit: 272.0          MaxLoss: 2228.0        ROI: 12.21%	    Probabilidad Ponderada: 86.79 %
+    Strikes: 410.0 / 460.0         MaxProfit: 541.0          MaxLoss: 4459.0        ROI: 12.13%	    Probabilidad Ponderada: 84.2 %
+    Strikes: 405.0 / 470.0         MaxProfit: 696.0          MaxLoss: 5804.0        ROI: 11.99%	    Probabilidad Ponderada: 82.74 %
+    Strikes: 425.0 / 440.0         MaxProfit: 160.0          MaxLoss: 1340.0        ROI: 11.94%	    Probabilidad Ponderada: 87.93 %
+    Strikes: 415.0 / 455.0         MaxProfit: 424.0          MaxLoss: 3576.0        ROI: 11.86%	    Probabilidad Ponderada: 85.53 %
+    Strikes: 400.0 / 480.0         MaxProfit: 847.0          MaxLoss: 7153.0        ROI: 11.84%	    Probabilidad Ponderada: 81.22 %
+    Strikes: 336.0 / 338.0         MaxProfit: 21.0          MaxLoss: 179.0        ROI: 11.73%	    Probabilidad Ponderada: 85.0 %
+    Strikes: 410.0 / 465.0         MaxProfit: 568.0          MaxLoss: 4932.0        ROI: 11.52%	    Probabilidad Ponderada: 84.2 %
+    Strikes: 420.0 / 450.0         MaxProfit: 309.0          MaxLoss: 2691.0        ROI: 11.48%	    Probabilidad Ponderada: 86.79 %
+    Strikes: 430.0 / 440.0         MaxProfit: 103.0          MaxLoss: 897.0        ROI: 11.48%	    Probabilidad Ponderada: 88.92 %
+    Strikes: 405.0 / 475.0         MaxProfit: 720.0          MaxLoss: 6280.0        ROI: 11.46%	    Probabilidad Ponderada: 82.74 %
+    Strikes: 400.0 / 485.0         MaxProfit: 859.0          MaxLoss: 7641.0        ROI: 11.24%	    Probabilidad Ponderada: 81.22 %
+    Strikes: 425.0 / 445.0         MaxProfit: 202.0          MaxLoss: 1798.0        ROI: 11.23%	    Probabilidad Ponderada: 87.93 %
+    Strikes: 415.0 / 460.0         MaxProfit: 452.0          MaxLoss: 4048.0        ROI: 11.17%	    Probabilidad Ponderada: 85.53 %
+    Strikes: 410.0 / 470.0         MaxProfit: 593.0          MaxLoss: 5407.0        ROI: 10.97%	    Probabilidad Ponderada: 84.2 %
+    Strikes: 400.0 / 490.0         MaxProfit: 885.0          MaxLoss: 8115.0        ROI: 10.91%	    Probabilidad Ponderada: 81.22 %
+    Strikes: 420.0 / 455.0         MaxProfit: 343.0          MaxLoss: 3157.0        ROI: 10.86%	    Probabilidad Ponderada: 86.79 %
+    Strikes: 405.0 / 480.0         MaxProfit: 734.0          MaxLoss: 6766.0        ROI: 10.85%	    Probabilidad Ponderada: 82.74 %
+    Strikes: 430.0 / 445.0         MaxProfit: 145.0          MaxLoss: 1355.0        ROI: 10.7%	    Probabilidad Ponderada: 88.92 %
+    Strikes: 415.0 / 465.0         MaxProfit: 479.0          MaxLoss: 4521.0        ROI: 10.6%	    Probabilidad Ponderada: 85.53 %
+    Strikes: 425.0 / 450.0         MaxProfit: 239.0          MaxLoss: 2261.0        ROI: 10.57%	    Probabilidad Ponderada: 87.93 %
+    Strikes: 410.0 / 475.0         MaxProfit: 617.0          MaxLoss: 5883.0        ROI: 10.49%	    Probabilidad Ponderada: 84.2 %
+    Strikes: 405.0 / 485.0         MaxProfit: 746.0          MaxLoss: 7254.0        ROI: 10.28%	    Probabilidad Ponderada: 82.74 %
+    Strikes: 420.0 / 460.0         MaxProfit: 371.0          MaxLoss: 3629.0        ROI: 10.22%	    Probabilidad Ponderada: 86.79 %
+    Strikes: 435.0 / 445.0         MaxProfit: 92.0          MaxLoss: 908.0        ROI: 10.13%	    Probabilidad Ponderada: 89.88 %
+    Strikes: 415.0 / 470.0         MaxProfit: 504.0          MaxLoss: 4996.0        ROI: 10.09%	    Probabilidad Ponderada: 85.53 %
+    Strikes: 425.0 / 455.0         MaxProfit: 273.0          MaxLoss: 2727.0        ROI: 10.01%	    Probabilidad Ponderada: 87.93 %
+    Strikes: 430.0 / 450.0         MaxProfit: 182.0          MaxLoss: 1818.0        ROI: 10.01%	    Probabilidad Ponderada: 88.92 %
+Total: 73 oportunidades CALL
+===================================================================================================================================
+				OPORTUNIDADES en BULL PUT - BPCS (S)								
+===================================================================================================================================
+
+    Strikes: 185.0 / 175.0         MaxProfit: 802.0          MaxLoss: 198.0        ROI: 405.05%	    Probabilidad Ponderada: 80.41 %
+    Strikes: 180.0 / 170.0         MaxProfit: 740.0          MaxLoss: 260.0        ROI: 284.62%	    Probabilidad Ponderada: 81.36 %
+    Strikes: 175.0 / 165.0         MaxProfit: 682.0          MaxLoss: 318.0        ROI: 214.47%	    Probabilidad Ponderada: 82.27 %
+    Strikes: 170.0 / 160.0         MaxProfit: 625.0          MaxLoss: 375.0        ROI: 166.67%	    Probabilidad Ponderada: 83.19 %
+    Strikes: 165.0 / 155.0         MaxProfit: 577.0          MaxLoss: 423.0        ROI: 136.41%	    Probabilidad Ponderada: 84.02 %
+    Strikes: 185.0 / 170.0         MaxProfit: 802.0          MaxLoss: 698.0        ROI: 114.9%	    Probabilidad Ponderada: 80.41 %
+    Strikes: 180.0 / 165.0         MaxProfit: 740.0          MaxLoss: 760.0        ROI: 97.37%	    Probabilidad Ponderada: 81.36 %
+    Strikes: 175.0 / 160.0         MaxProfit: 682.0          MaxLoss: 818.0        ROI: 83.37%	    Probabilidad Ponderada: 82.27 %
+    Strikes: 170.0 / 155.0         MaxProfit: 625.0          MaxLoss: 875.0        ROI: 71.43%	    Probabilidad Ponderada: 83.19 %
+    Strikes: 185.0 / 165.0         MaxProfit: 802.0          MaxLoss: 1198.0        ROI: 66.94%	    Probabilidad Ponderada: 80.41 %
+    Strikes: 180.0 / 160.0         MaxProfit: 740.0          MaxLoss: 1260.0        ROI: 58.73%	    Probabilidad Ponderada: 81.36 %
+    Strikes: 175.0 / 155.0         MaxProfit: 682.0          MaxLoss: 1318.0        ROI: 51.75%	    Probabilidad Ponderada: 82.27 %
+    Strikes: 185.0 / 160.0         MaxProfit: 802.0          MaxLoss: 1698.0        ROI: 47.23%	    Probabilidad Ponderada: 80.41 %
+    Strikes: 180.0 / 155.0         MaxProfit: 740.0          MaxLoss: 1760.0        ROI: 42.05%	    Probabilidad Ponderada: 81.36 %
+    Strikes: 185.0 / 155.0         MaxProfit: 802.0          MaxLoss: 2198.0        ROI: 36.49%	    Probabilidad Ponderada: 80.41 %
+    Strikes: 185.0 / 175.0         MaxProfit: 120.0          MaxLoss: 880.0        ROI: 13.64%	    Probabilidad Ponderada: 80.41 %
+    Strikes: 185.0 / 170.0         MaxProfit: 177.0          MaxLoss: 1323.0        ROI: 13.38%	    Probabilidad Ponderada: 80.41 %
+    Strikes: 180.0 / 170.0         MaxProfit: 115.0          MaxLoss: 885.0        ROI: 12.99%	    Probabilidad Ponderada: 81.36 %
+    Strikes: 185.0 / 165.0         MaxProfit: 225.0          MaxLoss: 1775.0        ROI: 12.68%	    Probabilidad Ponderada: 80.41 %
+    Strikes: 327.0 / 326.0         MaxProfit: 11.0          MaxLoss: 89.0        ROI: 12.36%	    Probabilidad Ponderada: 82.23 %
+    Strikes: 180.0 / 165.0         MaxProfit: 163.0          MaxLoss: 1337.0        ROI: 12.19%	    Probabilidad Ponderada: 81.36 %
+    Strikes: 185.0 / 155.0         MaxProfit: 318.0          MaxLoss: 2682.0        ROI: 11.86%	    Probabilidad Ponderada: 80.41 %
+    Strikes: 175.0 / 165.0         MaxProfit: 105.0          MaxLoss: 895.0        ROI: 11.73%	    Probabilidad Ponderada: 82.27 %
+    Strikes: 185.0 / 160.0         MaxProfit: 262.0          MaxLoss: 2238.0        ROI: 11.71%	    Probabilidad Ponderada: 80.41 %
+    Strikes: 150.0 / 135.0         MaxProfit: 154.0          MaxLoss: 1346.0        ROI: 11.44%	    Probabilidad Ponderada: 86.21 %
+    Strikes: 180.0 / 155.0         MaxProfit: 256.0          MaxLoss: 2244.0        ROI: 11.41%	    Probabilidad Ponderada: 81.36 %
+    Strikes: 327.0 / 325.0         MaxProfit: 20.0          MaxLoss: 180.0        ROI: 11.11%	    Probabilidad Ponderada: 82.23 %
+    Strikes: 180.0 / 160.0         MaxProfit: 200.0          MaxLoss: 1800.0        ROI: 11.11%	    Probabilidad Ponderada: 81.36 %
+    Strikes: 185.0 / 145.0         MaxProfit: 397.0          MaxLoss: 3603.0        ROI: 11.02%	    Probabilidad Ponderada: 80.41 %
+    Strikes: 175.0 / 155.0         MaxProfit: 198.0          MaxLoss: 1802.0        ROI: 10.99%	    Probabilidad Ponderada: 82.27 %
+    Strikes: 185.0 / 135.0         MaxProfit: 491.0          MaxLoss: 4509.0        ROI: 10.89%	    Probabilidad Ponderada: 80.41 %
+    Strikes: 140.0 / 130.0         MaxProfit: 98.0          MaxLoss: 902.0        ROI: 10.86%	    Probabilidad Ponderada: 87.58 %
+    Strikes: 185.0 / 150.0         MaxProfit: 337.0          MaxLoss: 3163.0        ROI: 10.65%	    Probabilidad Ponderada: 80.41 %
+    Strikes: 180.0 / 145.0         MaxProfit: 335.0          MaxLoss: 3165.0        ROI: 10.58%	    Probabilidad Ponderada: 81.36 %
+    Strikes: 185.0 / 130.0         MaxProfit: 525.0          MaxLoss: 4975.0        ROI: 10.55%	    Probabilidad Ponderada: 80.41 %
+    Strikes: 180.0 / 135.0         MaxProfit: 429.0          MaxLoss: 4071.0        ROI: 10.54%	    Probabilidad Ponderada: 81.36 %
+    Strikes: 185.0 / 140.0         MaxProfit: 427.0          MaxLoss: 4073.0        ROI: 10.48%	    Probabilidad Ponderada: 80.41 %
+    Strikes: 175.0 / 160.0         MaxProfit: 142.0          MaxLoss: 1358.0        ROI: 10.46%	    Probabilidad Ponderada: 82.27 %
+    Strikes: 145.0 / 135.0         MaxProfit: 94.0          MaxLoss: 906.0        ROI: 10.38%	    Probabilidad Ponderada: 86.94 %
+    Strikes: 150.0 / 130.0         MaxProfit: 188.0          MaxLoss: 1812.0        ROI: 10.38%	    Probabilidad Ponderada: 86.21 %
+    Strikes: 170.0 / 155.0         MaxProfit: 141.0          MaxLoss: 1359.0        ROI: 10.38%	    Probabilidad Ponderada: 83.19 %
+    Strikes: 165.0 / 155.0         MaxProfit: 93.0          MaxLoss: 907.0        ROI: 10.25%	    Probabilidad Ponderada: 84.02 %
+    Strikes: 175.0 / 135.0         MaxProfit: 371.0          MaxLoss: 3629.0        ROI: 10.22%	    Probabilidad Ponderada: 82.27 %
+    Strikes: 180.0 / 130.0         MaxProfit: 463.0          MaxLoss: 4537.0        ROI: 10.2%	    Probabilidad Ponderada: 81.36 %
+    Strikes: 175.0 / 145.0         MaxProfit: 277.0          MaxLoss: 2723.0        ROI: 10.17%	    Probabilidad Ponderada: 82.27 %
+    Strikes: 180.0 / 150.0         MaxProfit: 275.0          MaxLoss: 2725.0        ROI: 10.09%	    Probabilidad Ponderada: 81.36 %
+    Strikes: 160.0 / 135.0         MaxProfit: 229.0          MaxLoss: 2271.0        ROI: 10.08%	    Probabilidad Ponderada: 84.77 %
+    Strikes: 180.0 / 140.0         MaxProfit: 365.0          MaxLoss: 3635.0        ROI: 10.04%	    Probabilidad Ponderada: 81.36 %
+Total: 48 oportunidades PUT
+ -------------------------------------------                 -------------------------------------------------------
+Informe Mineria de Datos
+Strikes: 400.0/405.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 400.0/410.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 400.0/415.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 405.0/415.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 400.0/420.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 405.0/420.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 400.0/425.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 405.0/425.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 400.0/430.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 410.0/420.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 400.0/435.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 405.0/430.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 410.0/425.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 400.0/440.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 405.0/435.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 415.0/425.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 410.0/430.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 400.0/445.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 405.0/440.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 415.0/430.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 400.0/450.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 410.0/435.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 405.0/445.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 410.0/440.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 400.0/455.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 415.0/435.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 405.0/450.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 420.0/430.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 400.0/460.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 410.0/445.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 415.0/440.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 405.0/455.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 420.0/435.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 400.0/465.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 410.0/450.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 415.0/445.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 405.0/460.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 420.0/440.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 400.0/470.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 410.0/455.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 425.0/435.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 405.0/465.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 415.0/450.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 400.0/475.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 420.0/445.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 425.0/440.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 405.0/470.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 410.0/460.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 415.0/455.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 400.0/480.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 420.0/450.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 430.0/440.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 405.0/475.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 410.0/465.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 425.0/445.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 415.0/460.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 400.0/485.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 410.0/470.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 420.0/455.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 425.0/450.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 405.0/480.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 430.0/445.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 415.0/465.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 410.0/475.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 420.0/460.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 336.0/337.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 336.0/338.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 400.0/490.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 405.0/485.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 435.0/445.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 415.0/470.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 425.0/455.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 430.0/450.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 180.0/170.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 170.0/160.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 175.0/165.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 165.0/155.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 180.0/165.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 170.0/155.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 175.0/160.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 180.0/160.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 175.0/155.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 180.0/155.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 180.0/170.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 180.0/165.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 180.0/160.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 180.0/155.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 170.0/160.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 180.0/145.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 170.0/155.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 180.0/150.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 165.0/155.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 180.0/140.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 180.0/135.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 180.0/130.0      Codigo Credits Spreads: 2        Dias activo: 3
+Strikes: 175.0/145.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 175.0/135.0      Codigo Credits Spreads: 2        Dias activo: 2
+Strikes: 185.0/175.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 185.0/170.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 185.0/165.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 185.0/160.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 185.0/155.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 185.0/175.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 185.0/170.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 185.0/165.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 327.0/326.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 185.0/155.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 185.0/160.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 150.0/135.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 327.0/325.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 185.0/145.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 185.0/135.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 140.0/130.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 185.0/150.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 185.0/130.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 185.0/140.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 145.0/135.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 150.0/130.0      Codigo Credits Spreads: 2        Dias activo: 1
+Strikes: 160.0/135.0      Codigo Credits Spreads: 2        Dias activo: 1

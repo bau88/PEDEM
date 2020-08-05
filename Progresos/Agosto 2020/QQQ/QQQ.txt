@@ -1,0 +1,134 @@
+===================================================================================================================================
+Nombre de Programa  : BOT EXPERTO CALCULADOR DE CREDIT SPREADS
+Analisis de archivo : QQQ-2020-08-03-1.xlsx
+ROI                 : >= 10.0 %
+Hora		    : 14:32:43
+===================================================================================================================================
+				OPORTUNIDADES en BEAR CALL - BCCS (Z)								
+===================================================================================================================================
+
+    Strikes: 275.0 / 276.0         MaxProfit: 17.0          MaxLoss: 83.0        ROI: 20.48%	    Probabilidad Ponderada: 83.01 %
+    Strikes: 275.0 / 277.0         MaxProfit: 31.0          MaxLoss: 169.0        ROI: 18.34%	    Probabilidad Ponderada: 83.01 %
+    Strikes: 275.0 / 277.5         MaxProfit: 36.0          MaxLoss: 214.0        ROI: 16.82%	    Probabilidad Ponderada: 83.01 %
+    Strikes: 276.0 / 277.0         MaxProfit: 14.0          MaxLoss: 86.0        ROI: 16.28%	    Probabilidad Ponderada: 86.63 %
+    Strikes: 275.0 / 278.0         MaxProfit: 40.0          MaxLoss: 260.0        ROI: 15.38%	    Probabilidad Ponderada: 83.01 %
+    Strikes: 276.0 / 277.5         MaxProfit: 19.0          MaxLoss: 131.0        ROI: 14.5%	    Probabilidad Ponderada: 86.63 %
+    Strikes: 275.0 / 279.0         MaxProfit: 47.0          MaxLoss: 353.0        ROI: 13.31%	    Probabilidad Ponderada: 83.01 %
+    Strikes: 276.0 / 278.0         MaxProfit: 23.0          MaxLoss: 177.0        ROI: 12.99%	    Probabilidad Ponderada: 86.63 %
+    Strikes: 275.0 / 280.0         MaxProfit: 51.0          MaxLoss: 449.0        ROI: 11.36%	    Probabilidad Ponderada: 83.01 %
+    Strikes: 276.0 / 279.0         MaxProfit: 30.0          MaxLoss: 270.0        ROI: 11.11%	    Probabilidad Ponderada: 86.63 %
+    Strikes: 275.0 / 281.0         MaxProfit: 55.0          MaxLoss: 545.0        ROI: 10.09%	    Probabilidad Ponderada: 83.01 %
+Total: 11 oportunidades CALL
+===================================================================================================================================
+				OPORTUNIDADES en BULL PUT - BPCS (S)								
+===================================================================================================================================
+
+    Strikes: 260.0 / 259.0         MaxProfit: 14.0          MaxLoss: 86.0        ROI: 16.28%	    Probabilidad Ponderada: 81.82 %
+    Strikes: 260.0 / 258.0         MaxProfit: 25.0          MaxLoss: 175.0        ROI: 14.29%	    Probabilidad Ponderada: 81.82 %
+    Strikes: 260.0 / 257.5         MaxProfit: 30.0          MaxLoss: 220.0        ROI: 13.64%	    Probabilidad Ponderada: 81.82 %
+    Strikes: 260.0 / 257.0         MaxProfit: 34.0          MaxLoss: 266.0        ROI: 12.78%	    Probabilidad Ponderada: 81.82 %
+    Strikes: 259.0 / 258.0         MaxProfit: 11.0          MaxLoss: 89.0        ROI: 12.36%	    Probabilidad Ponderada: 84.29 %
+    Strikes: 259.0 / 257.5         MaxProfit: 16.0          MaxLoss: 134.0        ROI: 11.94%	    Probabilidad Ponderada: 84.29 %
+    Strikes: 260.0 / 256.0         MaxProfit: 42.0          MaxLoss: 358.0        ROI: 11.73%	    Probabilidad Ponderada: 81.82 %
+    Strikes: 259.0 / 257.0         MaxProfit: 20.0          MaxLoss: 180.0        ROI: 11.11%	    Probabilidad Ponderada: 84.29 %
+    Strikes: 260.0 / 255.0         MaxProfit: 49.0          MaxLoss: 451.0        ROI: 10.86%	    Probabilidad Ponderada: 81.82 %
+    Strikes: 259.0 / 256.0         MaxProfit: 28.0          MaxLoss: 272.0        ROI: 10.29%	    Probabilidad Ponderada: 84.29 %
+Total: 10 oportunidades PUT
+
+
+===================================================================================================================================
+Nombre de Programa  : BOT EXPERTO CALCULADOR DE CREDIT SPREADS
+Analisis de archivo : QQQ-2020-08-04-1.xlsx
+ROI                 : >= 10.0 %
+Hora		    : 14:34:29
+===================================================================================================================================
+				OPORTUNIDADES en BEAR CALL - BCCS (Z)								
+===================================================================================================================================
+
+    Strikes: 275.0 / 276.0         MaxProfit: 20.0          MaxLoss: 80.0        ROI: 25.0%	    Probabilidad Ponderada: 80.78 %
+    Strikes: 275.0 / 277.0         MaxProfit: 33.0          MaxLoss: 167.0        ROI: 19.76%	    Probabilidad Ponderada: 80.78 %
+    Strikes: 275.0 / 277.5         MaxProfit: 39.0          MaxLoss: 211.0        ROI: 18.48%	    Probabilidad Ponderada: 80.78 %
+    Strikes: 275.0 / 278.0         MaxProfit: 43.0          MaxLoss: 257.0        ROI: 16.73%	    Probabilidad Ponderada: 80.78 %
+    Strikes: 276.0 / 277.0         MaxProfit: 13.0          MaxLoss: 87.0        ROI: 14.94%	    Probabilidad Ponderada: 85.42 %
+    Strikes: 276.0 / 277.5         MaxProfit: 19.0          MaxLoss: 131.0        ROI: 14.5%	    Probabilidad Ponderada: 85.42 %
+    Strikes: 275.0 / 279.0         MaxProfit: 50.0          MaxLoss: 350.0        ROI: 14.29%	    Probabilidad Ponderada: 80.78 %
+    Strikes: 277.0 / 277.5         MaxProfit: 6.0          MaxLoss: 44.0        ROI: 13.64%	    Probabilidad Ponderada: 88.93 %
+    Strikes: 276.0 / 278.0         MaxProfit: 23.0          MaxLoss: 177.0        ROI: 12.99%	    Probabilidad Ponderada: 85.42 %
+    Strikes: 275.0 / 280.0         MaxProfit: 55.0          MaxLoss: 445.0        ROI: 12.36%	    Probabilidad Ponderada: 80.78 %
+    Strikes: 276.0 / 279.0         MaxProfit: 30.0          MaxLoss: 270.0        ROI: 11.11%	    Probabilidad Ponderada: 85.42 %
+    Strikes: 277.0 / 278.0         MaxProfit: 10.0          MaxLoss: 90.0        ROI: 11.11%	    Probabilidad Ponderada: 88.93 %
+    Strikes: 275.0 / 281.0         MaxProfit: 58.0          MaxLoss: 542.0        ROI: 10.7%	    Probabilidad Ponderada: 80.78 %
+Total: 13 oportunidades CALL
+===================================================================================================================================
+				OPORTUNIDADES en BULL PUT - BPCS (S)								
+===================================================================================================================================
+
+    Strikes: 262.5 / 262.0         MaxProfit: 7.0          MaxLoss: 43.0        ROI: 16.28%	    Probabilidad Ponderada: 82.89 %
+    Strikes: 263.0 / 262.0         MaxProfit: 14.0          MaxLoss: 86.0        ROI: 16.28%	    Probabilidad Ponderada: 81.39 %
+    Strikes: 263.0 / 262.5         MaxProfit: 7.0          MaxLoss: 43.0        ROI: 16.28%	    Probabilidad Ponderada: 81.39 %
+    Strikes: 263.0 / 261.0         MaxProfit: 25.0          MaxLoss: 175.0        ROI: 14.29%	    Probabilidad Ponderada: 81.39 %
+    Strikes: 262.5 / 261.0         MaxProfit: 18.0          MaxLoss: 132.0        ROI: 13.64%	    Probabilidad Ponderada: 82.89 %
+    Strikes: 263.0 / 260.0         MaxProfit: 34.0          MaxLoss: 266.0        ROI: 12.78%	    Probabilidad Ponderada: 81.39 %
+    Strikes: 262.0 / 261.0         MaxProfit: 11.0          MaxLoss: 89.0        ROI: 12.36%	    Probabilidad Ponderada: 84.32 %
+    Strikes: 262.5 / 260.0         MaxProfit: 27.0          MaxLoss: 223.0        ROI: 12.11%	    Probabilidad Ponderada: 82.89 %
+    Strikes: 263.0 / 259.0         MaxProfit: 41.0          MaxLoss: 359.0        ROI: 11.42%	    Probabilidad Ponderada: 81.39 %
+    Strikes: 262.0 / 260.0         MaxProfit: 20.0          MaxLoss: 180.0        ROI: 11.11%	    Probabilidad Ponderada: 84.32 %
+    Strikes: 262.5 / 259.0         MaxProfit: 34.0          MaxLoss: 316.0        ROI: 10.76%	    Probabilidad Ponderada: 82.89 %
+    Strikes: 263.0 / 258.0         MaxProfit: 47.0          MaxLoss: 453.0        ROI: 10.38%	    Probabilidad Ponderada: 81.39 %
+    Strikes: 263.0 / 257.5         MaxProfit: 50.0          MaxLoss: 500.0        ROI: 10.0%	    Probabilidad Ponderada: 81.39 %
+Total: 13 oportunidades PUT
+Informe Mineria de Datos
+Strikes: 275.0/276.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 275.0/277.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 275.0/277.5      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 276.0/277.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 275.0/278.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 276.0/277.5      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 275.0/279.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 276.0/278.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 275.0/280.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 276.0/279.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 275.0/281.0      Codigo Credits Spreads: 1        Dias activo: 2
+Strikes: 277.0/277.5      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 277.0/278.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 262.5/262.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 263.0/262.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 263.0/262.5      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 263.0/261.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 262.5/261.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 263.0/260.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 262.0/261.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 262.5/260.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 263.0/259.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 262.0/260.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 262.5/259.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 263.0/258.0      Codigo Credits Spreads: 1        Dias activo: 1
+Strikes: 263.0/257.5      Codigo Credits Spreads: 1        Dias activo: 1
+
+
+===================================================================================================================================
+Nombre de Programa  : BOT EXPERTO CALCULADOR DE CREDIT SPREADS
+Analisis de archivo : QQQ-2020-08-05-1.xlsx
+ROI                 : >= 10.0 %
+Hora		    : 14:35:24
+===================================================================================================================================
+				OPORTUNIDADES en BEAR CALL - BCCS (Z)								
+===================================================================================================================================
+
+    Strikes: 275.0 / 276.0         MaxProfit: 16.0          MaxLoss: 84.0        ROI: 19.05%	    Probabilidad Ponderada: 82.47 %
+    Strikes: 275.0 / 277.0         MaxProfit: 24.0          MaxLoss: 176.0        ROI: 13.64%	    Probabilidad Ponderada: 82.47 %
+    Strikes: 275.0 / 277.5         MaxProfit: 28.0          MaxLoss: 222.0        ROI: 12.61%	    Probabilidad Ponderada: 82.47 %
+    Strikes: 275.0 / 278.0         MaxProfit: 31.0          MaxLoss: 269.0        ROI: 11.52%	    Probabilidad Ponderada: 82.47 %
+Total: 4 oportunidades CALL
+===================================================================================================================================
+				OPORTUNIDADES en BULL PUT - BPCS (S)								
+===================================================================================================================================
+
+    Strikes: 266.0 / 265.0         MaxProfit: 10.0          MaxLoss: 90.0        ROI: 11.11%	    Probabilidad Ponderada: 83.36 %
+Total: 1 oportunidades PUT
+Informe Mineria de Datos
+Strikes: 275.0/276.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 275.0/277.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 275.0/277.5      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 275.0/278.0      Codigo Credits Spreads: 1        Dias activo: 3
+Strikes: 266.0/265.0      Codigo Credits Spreads: 1        Dias activo: 1
