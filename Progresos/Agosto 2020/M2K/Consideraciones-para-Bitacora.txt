@@ -1,3 +1,29 @@
 Para levantar, voy a ir poniendo el nombre de la carpeta el día
 /16082020/FECHA-HORA-CONTRATO-ANTES.jpg y luego de cerrar pondré 
 /16082020/FECHA-HORA-CONTRATO-DESPUES.jpg
+
+Ver que diferencia hay entre el vix de acciones y @vx de futuros. 
+
+
+Decidí que esta semana voy a estar probando en demo la ejecución de drone. No me quiero lanzar a lo loco 
+en real. Ya hice mi primera operación. Soy conciente de que voy a aprender más en real, pero el tema de 
+drone lo haré porque no puedo utilizar dos máquinas para eso. 
+
+Data y luego Strategy Performance Report es para obtener el reporte. 
+
+Ver bien qué cosas lo que puedo tener en un VPS. Un workspace o toda la instalación del VPS. 
+
+
+Atender bien para usar ese Matrix. Hacer caso por lo que dice al costado, no presionar en la grilla. 
+
+Tengo un problema para ejecutar el robot. Cuando estoy en casa, no tendría problemas, porque tenemos un muy buen 
+servicio de internet ahí. 
+
+Pero Cuando estoy por el trabajo, dependo sólo del mobile host pot del teléfono. 
+
+Lo que tengo que hacer es, nunca hice, pero sí o sí puedo con el TeamViewer. 
+Crear un entorno de manera a poder conectarme de manera remota. A mi equipo. 
+
+Entonces, cuando estoy en casa, usaré mi notebook, y cuando estoy afuera, usaré la conexión remota. 
+
+Voy a utilizar todo mi conocimiento de ingeniero en sistemas. 

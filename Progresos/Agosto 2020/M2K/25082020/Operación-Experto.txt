@@ -1,0 +1,34 @@
+
+Activo: @M2KU20					Beneficio-Riesgo: 2:1
+Precio de Referencia: 1562.7
+Comisiones de la Operación: 3 USD
+Riesgo máximo de la Operación: 54.0 USD
+
+===================================================================================================================================
+Tendencia Alcista
+===================================================================================================================================
+                   Configuracion de Entrada            		 Situacion esperada: LIBRE DE RIESGO		     Open P/L(USD)
+Descripcion        Take Profit 		Stop Loss			    	  Eventos				 esperado
+Contrato 1             1565.1         	1559.1				 [Take Profit alcanzado OK]		        +12.0
+Contrato 2             1567.5         	1559.1				 [Take Profit alcanzado OK] y [Activar Regla]	+24.0
+Contrato 3             1569.9         	1559.1                            Modificar Stop Loss a 1562.7                  +36.0
+
+===================================================================================================================================
+Regla: Trailing Stop 3er. Contrato (LIBRE DE RIESGO)
+===================================================================================================================================
+Open P/L(USD)   CONDICION
+
+    +55.0       1575.5-------------------------------------------------------------> Trailing Stop: 1573.5
+    +45.0       1573.5-------------------------------------------------> Trailing Stop: 1571.5
+    +35.0       1571.5-------------------------------------> Trailing Stop: 1569.5
+    +25.0       1569.5-------------------------> Trailing Stop: 1567.5
+    +0.0       1567.5-------------> Trailing Stop: 1562.7
+
+Por primera vez experimenté esa sensación (aunque sea en demo) de estar en situación "Libre de Riesgo". 
+Pero aunque tenía el dinero ficticio, lo primero que pensé es, aunque tenía todo para ir con trailing stop, 
+no me interesó mucho que digamos seguirle al precio. O quizás cambie eso al estar en real. No sé. Lo que sí, 
+sentía que podía perder en cualquier momento eso que me mostraba de "Verde" e hice nomás lo que recomendó 
+Mark Douglas. Ponerle el stop cerca del precio y esperar que toque. No estresarme por alcanzar algo más "alto".
+Me hace nomás pensar de que puedo seguir haciendo PEDEM en demo. Legalmente ya aprendí mucho, pero pienso que puedo 
+aprender más si sigo estando en demo. 
+Ver esa señora que alguna vez hizo las pruebas al robot y ver sus configuraciones. 
