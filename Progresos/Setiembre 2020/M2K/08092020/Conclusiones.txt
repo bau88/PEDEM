@@ -1,0 +1,155 @@
+Me sacó ya de dos operaciones. Como es día de prueba voy a seguirle.
+
+Uno de los problemas que tengo es que demasiado rápido se forman las señales. 
+
+3 veces ya me sacó. No sé qué es el problema, o cóm puedo seguir a los indicadores. 
+
+A las 10:20 hs decidí hacer escalping. 5 sacar y poner 20 de stop. 
+
+A las 10:25 hs. ya tomé 20 pips por escalping. 
+
+Desde que empecé a cocinar, me perdí de 4 buenas oportunidades. 
+Creo que se va cumpliendo lo que dijo esa Sandra: 
+
+En cada día: 
+
+- Me pierdo algún trade. 
+- Pierdo en algún trade. 
+- Salgo positivo al final de los trades. O algo así. 
+
+Cuando retomé, aprox. las 12 hs estaba todo muy relax por la pinta. 
+Hoy me faltó por la mañana analizar algunas noticias. 
+
+las 2:18 PM 9/8/2020 hice otro trade. Al toque tomó. Ni siquiera me dejó poner el stop. 
+Otros 10 ticks por scalping
+
+Siendo las 2:40 PM 9/8/2020 ME ESTOY dando cuenta de que tengo que ver un patrón o algo que me indique si va a ser
+como scalping o no. Porque hoy que empecé con el scalping, se siente como que se pierde mucho al no saber qué dirección 
+irá el precio. O sea, si va a subir mucho o si va a bajar mucho. 
+
+Creo que hice ya mi 5to trade en el día de Scalping con drone. Me asombra la efectividad 100%. 
+Ver 3:05 PM 9/8/2020 cuánto alcanzó el caso adverso. Cuánto llegó de negativo. En RT TE
+Después en el Market Replay
+
+Siempre atender que, cuando termina el anterior trade sale TPS ó TPL. Con flecha blanca. Ese ya debe indicar un 
+final del trade anterior. 
+
+También me vino a la mente probar lo que un día alguien me dijo. 
+5 a 10 pips ganar. 
+
+Pero que después de 5 ticks ya sea trailing stop de a 1 tick cada 4 ticks que vaya subiendo. 
+Tengo que aprender a hacer eso en el Matrix
+
+Mañana agregar boxes al renko grande. 
+Agregar NAV E IRATIO al renko pequeño. 
+
+Primera pérdida. Ya después de las 15:30. 
+3:38 PM 9/8/2020 Ver market replay porqué me tocó el stop loss. Probab. faltó darle más "espacio" tipo, a 25 usd. 
+
+
+En una primera pasada del MR, vi que siempre respeta el tema del box superior e inferior. O sea, que es muy bueno para el
+Stop Loss ese. 
+
+Ver si existe la manera de saber porqué no funcionó el último trade scalping
+Creo que con un 25 usd de stop loss ya iba a poder ganar nuevamente. 
+Lo primero que vi es que el M2KU20 de 15 min el IRATIO estaba en zona central o de equilibrio. Y el IRATIO de 
+RUT 3 min no alcanzó la zona de sobrecompra, y ya comenzaba a descender. 
+
+Ver si existe la manera de diferenciar qué situaciones fue para scalping y qué situaciones para abrir 
+operaciones con 2:1
+
+Primero, voy a ver en qué situaciones que dio el drone una señal el IRATIO o el NAVEGADOR estaban en una señal 
+de sobrecompra o sobreventa, superior a la línea de +40 y -40 respectivamente. 
+Probablemente fueron abiertas hoy 10 operaciones.
+
+############################################################################################################
+
+Operación 1 09:37: Todos los indicadores de IRATIO daban señal de sobreventa. 
+Muestra Lng pero sin 1. Ojo, pero segundos después muestra una señal de Srt con -1.
+No sé qué criterio tomó el drone, pero todos continuaban en sobreventa. No es una buena señal del drone con 
+respecto a los otros indicadores.  
+
+Operación 2 09:45: Todos los indicadores de IRATIO daban señal de sobreventa. IRATIO Renko 3 0.5 tambien en sobreventa. 
+Buena señal del drone de compra en coincidencia con todos los otros indicadores. 
+Lastima que dio solo para Scalping
+
+Operación 3 09:48: Todos los indicadores de IRATIO daban señal de sobreventa y velas magenta en navegador. 
+IRATIO DE Renko 3 0.5 También está en sobrecompra. 
+Dudosa señal del drone de venta, con respecto a los otros indicadores.  Sólo para Scalping. 
+Hasta ahora, todos antes de las 10 Scalping. 
+
+Operación 4 09:52: Todos los indicadores de IRATIO daban señal de sobreventa y velas magenta en navegador. 
+Buena señal del drone de compra, con respecto a los otros indicadores.  
+Como para 2:1
+
+Operación 5 10:03: Todos los indicadores de IRATIO daban señal de sobreventa y velas magenta en navegador. 
+IRATIO DE Renko 3 0.5 también estaba en sobreventa. 
+Dudosa señal del drone de venta, con respecto a los otros indicadores. Sólo para Scalping 
+
+Operación 6 10:09: Todos los indicadores de IRATIO daban señal de sobreventa y velas magenta en navegador. 
+Buena señal del drone de compra, con respecto a los otros indicadores.  
+Lástima que dio sólo unos pocos ticks. Sólo era para Scalping
+
+Operación 7 10:21: Todos los indicadores de IRATIO daban señal de sobreventa para M2KU20. RUT en equilibrio.  
+Dudosa señal de venta, Sólo era para Scalping
+
+Operación 8 10:23: Todos los indicadores de IRATIO daban señal de sobreventa para M2KU20. RUT en equilibrio.  
+Buena señal del drone de compra.
+
+Operación 9 10:42: RUT con señal de sobrecompra.  
+Buena señal del drone de venta. Como para 2:1
+
+Operación 10 11:02: Los indicadores no decían nada. No tengo forma de saber. 
+Buena señal del drone de compra. Como para 2:1
+
+Operación 11 11:02: IRATIO de RUT 3 min informa de sobrecompra. 
+Buena señal del drone de venta. Como para 2:1
+
+Operación 12 12:01: IRATIO de RUT 3 min informa de sobreventa. 
+Buena señal del drone de compra. Como para 2:1
+
+Operación 13 14:18: IRATIO de RUT 3 min sale de sobrecompra, y sale de línea amarilla, y de nivel de 60. 
+M2KU20 también estaba en zona de sobrecompra, y estaba saliendo. 
+Buena señal del drone de venta. Como para 2:1
+
+Operación 13 14:58: IRATIO de RUT 3 min sale de sobreventa. 
+Buena señal del drone de compra. PERO Solo para Scalping. 
+
+Operación 14 15:03: IRATIO de RUT 3 min está en sobreventa. 
+Dudosa señal del drone de venta. Sólo para Scalping
+
+Operación 15 15:20: IRATIO de RUT 3 min está en sobreventa. 
+Buena señal del drone de compra. Sólo para Scalping
+
+Operación 16 15:40: IRATIO de RUT 3 min está casi en sobrecompra, pero no llega. 
+Dudosa señal del drone de venta. SCALPING PERDIDO
+
+
+En general, si no me equivoco, el RUT 3 min va diciendo más o menos el confirmador de si está bien o no la señal del
+drone. Y si se reconfirman con los otros indicadores, creo que es para 2:1. 
+Si sólo el RUT 3 min está en zona de sobrecompra o sobreventa y el drone da señal de venta o compra, es para Scalping. 
+Entendiéndose sobrecompra (+40) y sobreventa (-40)
+Si se confirma RUT 3 min+Otros indicadores creo que podríamos entrar 2:1
+
+Revisar de nuevo todo. 
+
+Otra conclusión a la que llegué. Me hubiera ido bien hoy si desde las 09:40 hs hasta las 10:30 hs haya hecho Scalping. 
+
+Desde las 10:30 hs a 14:30 entrada Normal, 2:1. 
+
+Desde las 14:30hs a 15:50 hs, Scalping. 
+
+La verdad, la última media hora no operar. 
+La verdad, que sólo desde las 15:50hs no operar. Hoy perdí probablemente porque ni siquiera llegó a zona de 
+sobrecompra o sobreventa del RUT. Pero la realidad es que fue una buena señal de venta, sólo me faltó unos dólares. 
+Pero es parte del negocio. 
+Solamente hacer Scalping si el IRATIO del RUT 3 min está en sobrecompra o sobreventa. 
+
+info@Simplementetrading.com.
+
+
+
+
+
+
+

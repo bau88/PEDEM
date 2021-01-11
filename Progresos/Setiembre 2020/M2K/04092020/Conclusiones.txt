@@ -1,0 +1,70 @@
+Al final, me estoy dando cuenta que puedo seguir al drone. Pero debo estar muy atento. No hacer otra cosa, si hago otra
+cosa, me penaliza con pérdidas en un ratito. 
+
+Para que entienda lo que pasa, dibujé una línea vertical a las 09:30hs. Eso puedo ir moviendo, ej. A las 10 y media el 
+siguiente, luego a las 12 y media, luego a las 13:30, a las 14:30hs y a las 15:30 hs. 
+
+Voy a irme un ratito al baño. Voy a cerrar ahí el drone .
+
+Creo que la manera correcta es ir supervisando nomás luego. 
+
+Es más, ahora quiero supervisar el EURUSD. 
+
+O mejor, para qué eso. El SPY o el MNQ. 
+
+Estoy demasiado Feliz. Creo que está muy cerca TOP STEP TRADER. Es más, debo empezar a ahorrar para eso. 
+Pero no canto victoria.
+
+E inclusive va a cambiar el tema de mis fórmulas parece. Creo que voy a poner un stop de 20 dólares o lo que me dé
+el cuero, por si acaso al drone "se le va la mano". O sino, con mis grabaciones, voy a ver la pérdida máxima 
+que tiene, y poner ese valor. Hasta el momento, fue de 24usd. En 30usd por ahí llegó y después ya salió una nueva 
+alerta. Para abrir al contrario. 
+
+Al final, ese drone es un indicador semi-automático. Con esa raya vertical me salva mucho. 
+
+Ahí incluso puedo hacer lo siguiente: Puedo hacer el algoritmo de Mark Douglas. 
+
+A las 10:16 ya cerré y recuperé lo que había perdido. Me voy un rato al baño. 
+
+Bueno. No se grabó nada de lo que fue la jornada de hoy. Pero lo que está en mi mente nadie lo puede sacar. 
+
+Pensandolo bien, en mis primeros trades sólo voy a trabajar con el drone. Más tarde, cuando gane en confianza, 
+puede ser que le agregue el tema de Mark Douglas. 
+
+Me encanta cómo trabaja el drone. Sinceramente es el indicador que estaba buscando. 
+Igual, voy a terminar ese curso de Easy Languaje. Capaz en el futuro sí o sí me sirva para algo. 
+Ya sé compilar, ver los posibles errores, etc. 
+
+Ahora por ejemplo estoy viendo en el drone que de 40 usd de ganancia bajó a 15 usd. Eso por ejemplo se pudo haber
+solucionado con la estrategia de Mark Douglas. 
+
+BEL salió cuando ya iba ganando y parece que se daba la vuelta. Cerré con 36 positivo por ahí. Hasta ahora, lo mejor que 
+hice creo. 
+
+TPS salió cuando estaba perdiendo mi Short. Y se tenía que abrir otro de Compra. 
+
+Creo que 25 dólares de pérdida aprox. puedo poner para Stop Loss. 
+Tengo que atender bien porque en un abrir y cerrar de ojos hay una nueva indicación. 
+
+En mercados laterales nomás no ayuda para nada el drone. O en todo caso, entrar muy rápido ni bien aparezca. 
+Debo también estar seguro si la última operación fue sell o buy
+
+Las 11:43 por ahi me salio un nuevo short. Pero voy a ir a almorzar
+E inclusive, me estoy haciendo la idea de que podré operar con el dron a la noche, ver su comportamiento. 
+Creo que es más estable digamos o tranquilo digamos. 
+
+Ver la manera de hacer que sea más grande los gráficos, como el RUT. 
+
+Se me viene otra idea: Lo que puedo hacer también si es gana un poco, luego retrocede y luego ir sacando una parte. 
+Si retrocede, y vuelve al pundo de entrada, abrir otro en la misma posición. 
+
+
+Sinceramente, creo que la mejor tirada podría ser: 
+Gestión de Capital: Método de Mark Douglas con 2 a 1. Con stop de 20 USD. Y límite de 40 USD. 
+
+Me vino algo a la mente, creo que podríamos agilizar algo. Si abro un contrato buy. El drone dice que ya se termina la
+tendencia. Puedo abrir dos contratos sell en el lugar en que quiero cerrar. Así, mata dos pájaros de un tiro. 
+O sino, ordenes combinadas, parece que ese OCO y OSO voy a tener que usar. 
+
+Lo que sí, la idea es que pueda cerrar un contrato y abri otro en la misma dirección. Pensando nomás en el tema de 
+esa cobertura que habían dicho de Forex. Poner dos puntos. 

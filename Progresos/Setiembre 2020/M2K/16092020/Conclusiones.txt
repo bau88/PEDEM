@@ -1,0 +1,53 @@
+Hoy comencé con 9825 USD .
+ vOY A Hacer mi prueba con los retiros parciales. 
+
+Por cada operación, 60 USD de riego de pérdida.
+
+Hoy varias veces pude hacer los retiros parciales. Y específicamente, en uno de ellos pude
+aplicar el concepto de oportunidad libre de riesgo. Se siente muy bien. Principalmente
+cuando ponés tu Stop Limit en break even. 
+Pero a partir de mañana voy a probar hacer click directamente el break even. 
+Después cancelar el de abajo. 
+
+Para probar mi estrategia voy a prepararme para perder 60*20=1.200USD. 
+
+La verdad que quiero probar más, tener más feeling con la estrategia, y después recién en real. 
+
+Mi plan dice que una vez nomás debo aplicar, no seguir el movimiento del precio por avaricia. 
+Solo cuando está cerca del punto cero, después de una señal de drone, y si pasa el precio injusto
+superior o inferior en el caso de compra ó venta. 
+Cuando parte de la línea 0 también puedo agregarle. 
+
+Pero, a decir verdad, es como que me siento un poco cabizbajo. Ya van a ser casi 5 meses el próximo 
+22 de Setiembre, y no sé todavía cómo sacarle un sólo dólar a la bolsa, de manera consistente. 
+Si bien, alguna vez gano, pero no sé todavía mi tasa de aciertos de verdad. 
+Sólo me queda arriesgarme de una vez por todas en real, ahí no voy a abrir al pedo una operación. 
+
+Sólo lo que diga el plan. 
+
+Mañana quiero arrancar en real. Pensar que en el peor caso puedo perder 1.200 USD. Es decir, más del 
+50% de la cuenta. Pero por cada ganancia que logro, puedo ir restando al 1.200 USD. 
+Ya el miedo irá desapareciendo. No me va a afectar perder esos 1.200 USD. Hoy incluso vi que 
+puedo agregarle la pericia de los niveles. 
+
+Voy a ir anotando las probabilidades. 
+
+No acierto		Acierto Parcial 1		Acierto Parcial 2+OportunidadLibreDeRiesgo
+Pierdo 30 USD		Pierdo 13 USD			Gano 22 USD o más
+
+Sería como una cobertura el primero, porque debe ser altamente probable ese. Como un scalping. 
+El Acierto Parcial 1. Scalping es básicamente. Jugarme por 7 y Arriesgar 30. Si pierdo el 
+Acierto Parcial 2 funcionó como cobertura. 
+El Acierto Parcial 2 es básicamente la frutilla de la torta. Es mi operación principal. 
+
+Ahora, antes de cenar me vino una súper idea. 
+Creo que para tener la probabilidad nomás no hará falta los 3 contratos, sino sólo 2. 
+Uno va a ser 1/3 del TP y el otro el 2/3. 
+Sería de 14 ticks y el otro de 28 Ticks. Nada más. Y 20 Ticks de Stop Loss para ambos. 
+Ahí, en el peor caso, me estaría ahorrando 400 USD y sólo perdería en el peor caso 800 USD. 
+Entonces, con la nueva configuración quedará. 
+No acierto		Acierto Parcial 1		Acierto Parcial 2
+Pierdo 20 USD		Pierdo 3 USD			Gano 21 USD 
+
+
+ 

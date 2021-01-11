@@ -1,0 +1,25 @@
+Me viene nomás a la mente que debo probar el tema de fractales en velas renko a ver qué sale. 
+Puede ser que, si detecta el tema de los fractales también ahí, ver si en EasyLanguaje puedo 
+crear una función para llamar por correo. 
+
+Hoy haré el cálculo de los 3 días Martes, Miércoles, Jueves. Voy a sacar las ganancias posibles, 
+evaluando los rendimiento en un entorno Mixto, en un entorno asilado, el Renko 3, 0.5 y el Renko 3, 1. 
+De la conclusión que salga hoy, estaré operando. Inclusive, puedo ir probando también desde las 08:00hs. 
+
+Lo que voy a hacer mañana voy a pensar. Probablemente voy a estar abriendo el drone a las horas en que funciona el mercado. 
+Cerrar las 15:50 hs. O estaré abriendo en real. Monitorizando todo.
+El problema más grande es que debo cocinar. Justo a la hora de más movimiento. Poco antes de las 12. 
+
+Pasa que me puedo adaptar a nuestra hora de almuerzo. Las 11:00 hs tomar como la hora de cocinar. 
+
+Sólo para cumplir el tema del plan de trading, no arriesgar más del 1.5% del capital en una sola operación. 
+Esto sería 30 USD en mi Stop Loss. Y cada vez que voy ganando, puede ser más grande el monto. 
+
+
+Bueno. Decidí que mañana voy a hacer una prueba de cómo ejecutaré el lunes en real. Siempre monitorizando todo. 
+Si total, nunca se abrirá más de un contrato. No hay ningún apuro. Estoy evaluando el rendimiento del drone. 
+Averiguar también cuándo vence el contrato. Que no tenga en cuenta algo más, que se me pase o que. 
+
+Ya sé lo que haré. Voy a ejecutar mañana en demo yo solo. Cuando llegue la hora de cocinar, le dejaré operando solo. 
+Cuando termine de cocinar, y coma todo, deshabilitaré el drone sus ejecuciones automáticas y tomaré de nuevo yo
+el control. Eso mismo haré el lunes. 

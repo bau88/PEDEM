@@ -1,0 +1,101 @@
+En esta segunda operación mía mía de hoy, que es la tercera del día. Me di cuenta que podía haber ganado si no movía mi 
+Stop Loss a la posición de Break Even. 
+
+Ahora me vino a la mente algo. Estar muy atento. Creo que tengo la solución para que pueda cargar consistentemente 
+dinero a mi cuenta. 
+
+
+En vez de abrir las tres operaciones, lo que puedo hacer es lo siguiente: 
+Tener preparado tres operaciones: Sólo una abrir. 
+
+Una vez que va a mi favor y luego vuelve, lo que puedo es ir tomando un poquitito de lo que subió. 
+Por ejemplo, lo que me pasó se podía resolver eso. 
+
+Si ponía el Stop Loss en la posición de 2/3:1, y dejaba una posición pendiente por si regresaba el precio, 
+y así seguir hasta alcanzar ese 2:1. 
+
+Si pasa, dejar en la posición de 4/3:1, y así. 
+
+
+Ahora, observé que el dron tiene un buen desempeño en general. Solamente que si se va en contra de él, 
+al menos debo prepararme para abrir una posición en contra después de 20 usd. de pérdida. Al menos 2 a uno. 
+No, no estoy entendiendo la manera de actuar del drone. No volver a ejecutarlo hasta que yo no sepa por mí mismo 
+mejor. E incluso, yo programar un drone nuevo. 
+Se volvió loco con el mercado lateral. 
+Ya sé que no debo ejecutarle solo. 
+
+
+Esta va a ser la estrategia que voy a programar más tarde
+#Comentario va a ser para mí.
+
+Input: Adj(0,0003),
+       Lenght (14),
+	Percent (5);
+Vars: oBullisHarami (0),
+      oBearishHarami (0);
+
+Value1 = C_BullHar_BearHar(Lenght,oBullishHarami,oBearishHarami);
+if oBullishHarami = 1 then
+    begin
+         VALUE1 = TEXT_NEW(D,T,(L-L*ADJ),"h");        #Bullish Harami#
+ 	 TEXT_SETCOLOR(VALUE1,Green);
+	 TEXT_SETSTYLE(VALUE1,2,1);
+    end
+else if  oBearishHarami = 1 then
+     begin
+	  VALUE1 = TEXT_NEW(D,T,(H+H*ADJ),"h");        #Bearish Harami#
+ 	 TEXT_SETCOLOR(VALUE1,Red);
+	 TEXT_SETSTYLE(VALUE1,2,1);
+
+Vars:    o3WhiteSoldiers (0),
+	o3BlackCrows (0);
+Value1 = C_3WhSolds_3BlkCrows(Lenght, Percent, o3WhiteSoldiers, o3BlackCrows);
+if o3WhiteSoldiers = 1 then
+    begin
+         VALUE1 = TEXT_NEW(D,T,(L-L*ADJ),"3c");        #Three White Soldiers#
+ 	 TEXT_SETCOLOR(VALUE1,Green);
+	 TEXT_SETSTYLE(VALUE1,2,1);
+    end
+else if  o3BlackCrows = 1 then
+     begin
+	  VALUE1 = TEXT_NEW(D,T,(H+H*ADJ),"3b");        #Three Black Crows#
+ 	 TEXT_SETCOLOR(VALUE1,Red);
+	 TEXT_SETSTYLE(VALUE1,2,1);
+
+Vars:    oBullishEngulfing (0),
+	oBearishEngulfing (0);
+Value1 = C_BullEng_BearEng(Lenght, oBullishEngulfing, oBearishEngulfing);
+if oBullishEngulfing = 1 then
+    begin
+         VALUE1 = TEXT_NEW(D,T,(L-L*ADJ),"be");        #Bullish Engulfing#
+ 	 TEXT_SETCOLOR(VALUE1,Green);
+	 TEXT_SETSTYLE(VALUE1,2,1);
+    end
+else if  oBearishEngulfing = 1 then
+     begin
+	  VALUE1 = TEXT_NEW(D,T,(H+H*ADJ),"be");        #Bearish Engulfing#
+ 	 TEXT_SETCOLOR(VALUE1,Red);
+	 TEXT_SETSTYLE(VALUE1,2,1);
+
+
+Estoy viendo que, lo que tengo que hacer es el tema de Mark Douglas. 
+Ya tengo el camino. Sólo debo ir probando a ver qué tal me va. Y después decir si me sirve o no. 
+Voy a comenzar con beneficio riesgo de 2 A 1. 
+
+Esto dice
+Para  predeterminar  este  objetivo  de  ganancia  (Take  Profit)  me  baso  en  algún soporte o resistencia 
+en un período de tiempo más largo, o en un importante máximo o mínimo anterior. 
+Esto es exactamente lo que indican el siguiente cluster ó un siguiente nivel en Ingresarios. 
+
+Lo que voy a hacer es entonces, al revés, el programa. 
+Voy a ver un siguiente nivel (soporte ó resistencia), abrir una posición, 3 contratos. 
+Luego, poner el precio de entrada en el excel o en el programa. Luego, el nivel para el TP con 2:1. 
+
+El sistema de fórmulas lo que debe hacer es, dado el punto de entrada y el TP, sacar los puntos 
+para ir retirando los beneficios, que son el 2/3 y el 4/3. 
+
+A partir de mañana voy a comenzar a hacer eso. 
+Hoy debo preparar el excel. 
+
+
+
